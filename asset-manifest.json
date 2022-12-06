@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/srisudhatri/react-ts.in.git/static/css/main.c0f93d7f.css",
+    "main.js": "/srisudhatri/react-ts.in.git/static/js/main.6d438571.js",
+    "static/js/787.b2c3c611.chunk.js": "/srisudhatri/react-ts.in.git/static/js/787.b2c3c611.chunk.js",
+    "index.html": "/srisudhatri/react-ts.in.git/index.html",
+    "main.c0f93d7f.css.map": "/srisudhatri/react-ts.in.git/static/css/main.c0f93d7f.css.map",
+    "main.6d438571.js.map": "/srisudhatri/react-ts.in.git/static/js/main.6d438571.js.map",
+    "787.b2c3c611.chunk.js.map": "/srisudhatri/react-ts.in.git/static/js/787.b2c3c611.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f93d7f.css",
+    "static/js/main.6d438571.js"
+  ]
+}
