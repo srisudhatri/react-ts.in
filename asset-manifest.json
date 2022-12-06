@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/srisudhatri/tsdemo/static/css/main.c0f93d7f.css",
-    "main.js": "/srisudhatri/tsdemo/static/js/main.08fb41ea.js",
-    "static/js/787.b2c3c611.chunk.js": "/srisudhatri/tsdemo/static/js/787.b2c3c611.chunk.js",
-    "index.html": "/srisudhatri/tsdemo/index.html",
-    "main.c0f93d7f.css.map": "/srisudhatri/tsdemo/static/css/main.c0f93d7f.css.map",
-    "main.08fb41ea.js.map": "/srisudhatri/tsdemo/static/js/main.08fb41ea.js.map",
-    "787.b2c3c611.chunk.js.map": "/srisudhatri/tsdemo/static/js/787.b2c3c611.chunk.js.map"
+    "main.css": "/react-ts.in/static/css/main.c0f93d7f.css",
+    "main.js": "/react-ts.in/static/js/main.f13cf4da.js",
+    "static/js/787.b2c3c611.chunk.js": "/react-ts.in/static/js/787.b2c3c611.chunk.js",
+    "index.html": "/react-ts.in/index.html",
+    "main.c0f93d7f.css.map": "/react-ts.in/static/css/main.c0f93d7f.css.map",
+    "main.f13cf4da.js.map": "/react-ts.in/static/js/main.f13cf4da.js.map",
+    "787.b2c3c611.chunk.js.map": "/react-ts.in/static/js/787.b2c3c611.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0f93d7f.css",
-    "static/js/main.08fb41ea.js"
+    "static/js/main.f13cf4da.js"
   ]
 }
