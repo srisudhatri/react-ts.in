@@ -1,0 +1,16 @@
+
+body{
+    background-color: #ddd;
+}
+
+.approved{
+    color:#168ef0;
+    margin-left:5px;
+}
+
+
+.terms,.data{
+    color:#0056b3;
+    border-bottom: 1px solid #0056b3;
+    
+}

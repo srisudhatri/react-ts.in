@@ -1,0 +1,34 @@
+/* 
+body{
+    background-color: #ddd;
+}
+
+
+.card-body{
+    box-shadow: 0 8px 17px 3px rgb(0 0 0 / 6%);
+}
+.card{
+    border: none;
+}
+
+.fas{
+    background-color: green;
+    color:#fff;
+    padding:5px;
+    border-radius:50%;
+    margin-right:10px;
+}
+
+.terms,.data{
+    color:#0056b3;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+ */
+
+ /* .scroll{
+    width: 150px;
+  height: 200px;
+  overflow-y: scroll;
+ } */
